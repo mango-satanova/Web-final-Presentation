@@ -332,6 +332,13 @@ a{
 .mainpage4{
 	display: flex;
 }
+.mainpage9{
+	display: grid;
+	justify-content: space-around;
+}
+.mainpage9 img{
+padding-bottom: 20px;
+}
 
 
 
